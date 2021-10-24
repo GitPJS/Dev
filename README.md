@@ -1,2 +1,1 @@
-# TIL
-Today I learn
+# 자잘한 연습 및 회고
