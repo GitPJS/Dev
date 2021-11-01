@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const party  = new Array(1, 2, 3, 4)
+  party.unshift('안녕', '안녕')
+  party.pop()
+  party.shift()
+  party.slice()
+  
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <div> Test conflictdsajgliealkfdjiw </div>
-        </a>
-      </header>
+     {party}
     </div>
   );
 }
