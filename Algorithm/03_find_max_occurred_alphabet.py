@@ -1,4 +1,4 @@
-input = "hello my name is sparta"
+input = "hello my name is parkjuseung"
 
 
 def find_max_occurred_alphabet(string):
