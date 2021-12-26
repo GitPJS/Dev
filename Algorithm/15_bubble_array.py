@@ -1,4 +1,4 @@
-input = [4, 6, 2, 9, 1]
+input = [1, 6, 2, 8, 3]
 
 
 def bubble_sort(array):
